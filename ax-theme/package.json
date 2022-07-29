@@ -1,0 +1,33 @@
+{
+    "name": "ax-theme",
+    "displayName": "AX-Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "EventHorizon",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/v3ctr0n/AX-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "orange",
+        "grey",
+        "eventhorizon"
+        ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AX-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AX-Theme-color-theme.json"
+            }
+        ]
+    }
+}
