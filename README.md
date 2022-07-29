@@ -1,5 +1,5 @@
 # AX-Theme
-
+![version number](https://vsmarketplacebadge.apphb.com/version/eventhorizon.ax-theme.svg)
 Dark VS Code theme using mainly combination of orange and grey. Available for VS Codium as well.
 
 > **Python**
