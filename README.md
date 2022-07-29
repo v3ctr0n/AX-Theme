@@ -1,6 +1,6 @@
 # AX-Theme
 
-Dark VS Code theme using mainly combination of orange and grey.
+Dark VS Code theme using mainly combination of orange and grey. Available for VS Codium as well.
 
 > **Python**
 
