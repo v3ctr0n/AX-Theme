@@ -1,5 +1,5 @@
 # AX-Theme
-![version number](https://vsmarketplacebadge.apphb.com/version/eventhorizon.ax-theme.svg)
+[![Version](https://vsmarketplacebadge.apphb.com/version/eventhorizon.ax-theme.svg)](https://marketplace.visualstudio.com/items?itemName=EventHorizon.ax-theme)
 
 Dark VS Code theme using mainly combination of orange and grey. Available for VS Codium as well.
 
